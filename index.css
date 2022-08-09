@@ -1,6 +1,8 @@
 body {
     margin: 0;
-    background: #92400E
+    background: #92400E;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 h2 {
@@ -49,7 +51,7 @@ button {
     width: 170px;
     margin-top: 35px;
     padding: 10px 20px ;
-    background: #B45309;;
+    background: #B45309;
     color: #FDE68A;
     border-radius: 6px;
     font-size: 16px;
